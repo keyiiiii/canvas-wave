@@ -1,0 +1,7 @@
+# OS X files
+.DS_Store
+Thumbs.db
+
+# Intellij project files
+.idea
+*.iml
